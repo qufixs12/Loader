@@ -29,7 +29,7 @@ This is the official loader for the sniper tool. It manages account login, key r
 ## 🔒 Privacy Policy  
 Your privacy is respected.  
 - We only store your **email**, **recovery key**, and **username** used at signup.  
-- All other data can be deleted **on request** or **automatically by the loader**.  
+- All data can be deleted **on request** or **automatically by the loader**.  
 
 ---
 
