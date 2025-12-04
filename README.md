@@ -178,5 +178,5 @@ Q. Quit
 
 **⚠️ REMINDER**: Do not share your license keys. Key sharing will result in permanent account deletion with no refunds or appeals.
 
-**Made with ❤️ by richfucks**
+**Made ❤️ by richfucks**
 
