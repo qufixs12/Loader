@@ -2,7 +2,7 @@
 
 **Made by: richfucks** | [Discord Server](https://discord.gg/ZwcSF2F5T7)
 
-A powerful username availability checker tool that allows you to find available usernames across multiple platforms. Features account management, license key system, and multiple search modes.
+A powerful username availability checker tool that allows you to find available usernames. Features account management, license key system, and multiple search modes.
 
 ## 📋 Features
 
