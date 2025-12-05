@@ -35,9 +35,9 @@ A powerful Roblox username checking tool with multiple search modes and GitHub i
 
 ## Installation
 
-step one dont be stupid
+step 1 dont be stupid
 
-step two ⚠️ Make sure the _internal folder and the .exe file stay in the same directory, or the loader won’t run. ⚠️
+step 2 ⚠️ Make sure the _internal folder and the .exe file stay in the same directory, or the loader won’t run. ⚠️
 
 step 3 run exe
 
