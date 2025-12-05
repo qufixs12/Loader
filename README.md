@@ -35,16 +35,7 @@ A powerful Roblox username checking tool with multiple search modes and GitHub i
 
 ## Installation
 
-1. Clone or download this repository
-2. Install required dependencies:
-   ```bash
-   pip install requests aiohttp
-   ```
-3. Configure your GitHub token in `6Lsniper.py` (line 51)
-4. Run the script:
-   ```bash
-   python 6Lsniper.py
-   ```
+step one dont be stupid
 
 ## Usage
 
@@ -104,19 +95,12 @@ All taken usernames are automatically:
 
 ## Configuration
 
-### GitHub Token
-Update the `GITHUB_TOKEN` variable in `6Lsniper.py` (line 51) with your GitHub personal access token.
 
-### GitHub Repository
-The tool uses the repository: `qufixs12/ummm-test` on the `main` branch.
+
 
 ## Requirements
 
-- Python 3.7+
-- `requests` library
-- `aiohttp` library
-- Internet connection
-- GitHub personal access token
+a brain
 
 ## Notes
 
