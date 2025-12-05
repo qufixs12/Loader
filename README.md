@@ -86,17 +86,9 @@ All taken usernames are automatically:
 │   ├── custom.txt
 │   ├── five_char.txt
 │   └── single_check.txt
-└── taken/                   # Local taken backup (optional)
-    ├── barcodes.txt
-    ├── custom.txt
-    ├── five_char.txt
-    └── single_check.txt
+└── taken/                   
+empty needs to be removed
 ```
-
-## Configuration
-
-
-
 
 ## Requirements
 
