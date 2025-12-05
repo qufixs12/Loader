@@ -103,6 +103,8 @@ a brain
 
 ## Support
 
+⚠️ Important: Make sure the _internal folder and the .exe file stay in the same directory, or the loader won’t run.
+
 For support, keys, or questions, join our Discord: https://discord.gg/ZwcSF2F5T7
 
 ## License
