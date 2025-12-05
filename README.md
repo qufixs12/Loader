@@ -43,7 +43,7 @@ step 3 run exe
 
 step 4 create an account
 
-step 5 redeem a key or get on from our Discord: https://discord.gg/ZwcSF2F5T7
+step 5 redeem a key or get one from our Discord: https://discord.gg/ZwcSF2F5T7
 
 ## Usage
 
