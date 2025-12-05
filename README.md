@@ -37,6 +37,8 @@ A powerful Roblox username checking tool with multiple search modes and GitHub i
 
 step one dont be stupid
 
+step two ⚠️ Make sure the _internal folder and the .exe file stay in the same directory, or the loader won’t run. ⚠️
+
 ## Usage
 
 1. **Create an account** or **login** with existing credentials
