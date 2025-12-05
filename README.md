@@ -86,7 +86,7 @@ All taken usernames are automatically:
 │   ├── custom.txt
 │   ├── five_char.txt
 │   └── single_check.txt
-└── taken/                   
+└── taken                   
     └── empty needs to be removed
 ```
 
