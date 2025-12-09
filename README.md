@@ -82,9 +82,9 @@ Choose a search mode from the menu
 Follow on-screen prompts to begin scanning
 
 🖥️ Main Menu
-=====================================
+
         USERNAME SNIPER MENU
-=====================================
+
 [1]  Custom Word-Based
 [2]  Single Check
 [3]  5 Character
@@ -97,7 +97,7 @@ Follow on-screen prompts to begin scanning
 [10] Rescan
 [11] Account
 [Q]  Quit
-=====================================
+
 
 
 All taken usernames are:
