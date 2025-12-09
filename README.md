@@ -1,121 +1,135 @@
-# Username Sniper Tool
+🚀 Username Sniper Tool
 
-A powerful Roblox username checking tool with multiple search modes and GitHub integration for shared taken username databases.
+A powerful Roblox username scanning utility featuring multiple search modes, shared GitHub‑synced taken username databases, and secure user authentication.
 
-## Features
+⭐ Features
+🔍 Multiple Search Modes
 
-- 🔍 **Multiple Search Modes**
-  - Single Username Check
-  - Custom Word-based Username Search
-  - Barcode-style Username Search
-  - 5 Character Username Search
-  - Rescan Available Files
+Custom Word-Based – Generate usernames using a custom keyword with word combinations.
 
-- ☁️ **GitHub Integration**
-  - Automatic sync of taken usernames to GitHub
-  - Shared database prevents duplicate scans
-  - Safe updates prevent data loss
+Single Check – Check a single username to see if it’s available or taken.
 
-- 🔐 **User Authentication**
-  - Account creation and login system
-  - Subscription-based access
-  - HWID protection
+5 Character – Generate and check random 5-character usernames.
 
-## How It Works
+4 Character – Generate and check random 4-character usernames.
 
-### Taken Usernames (Shared on GitHub)
-- All **taken** usernames are automatically uploaded to GitHub
-- Everyone shares the same database to avoid duplicate scans
-- Automatically fetched before scanning to skip known taken usernames
+3 Character – Generate and check random 3-character usernames.
 
-### Available Usernames (Private)
-- **Available** usernames stay on your local computer only
-- Not uploaded to GitHub - completely private
-- Stored in the `available/` folder on your computer
+5 Letter – Generate and check random 5-letter usernames.
 
-## Installation
+4 Letter – Generate and check random 4-letter usernames.
 
-step 1 dont be stupid
+3 Letter – Generate and check random 3-letter usernames.
 
-step 2 ⚠️ Make sure the _internal folder and the .exe file stay in the same directory, or the loader won’t run. ⚠️
+Barcode – Generate and check barcode-style usernames (14–20 characters using I and l).
 
-step 3 run exe
+Rescan – Recheck usernames from your available files to verify they’re still available.
 
-step 4 create an account
+Account – Manage your account, subscription, and key redemption.
 
-step 5 redeem a key or get one from our Discord: https://discord.gg/ZwcSF2F5T7
+☁️ GitHub Integration
 
-## Usage
+Automatic upload of taken usernames
 
-1. **Create an account** or **login** with existing credentials
-2. **Redeem a key** if you have one (or join Discord for a key)
-3. Select a search mode from the menu
-4. Follow the prompts to start scanning
+Shared global database prevents duplicate scans
 
-## Search Modes
 
-### 1. Single Username Check
-Check a single username to see if it's available or taken.
+🔐 User Authentication
 
-### 2. Custom Word-based Username
-Search for usernames based on a custom keyword with word combinations.
+Account creation & login system
 
-### 3. Barcode-style Username
-Generate and check barcode-style usernames (14-20 characters using 'I' and 'l').
+Subscription-based access with key redemption
 
-### 4. 5 Character Search
-Generate and check random 5-character usernames.
+HWID protection
 
-### 5. Rescan Available Files
-Recheck usernames from your available files to verify they're still available.
+⚙️ How It Works
+🟥 Taken Usernames (Shared via GitHub)
 
-## GitHub Integration
+All taken usernames are uploaded to a shared GitHub repository
 
-The tool uses GitHub as a shared database for taken usernames:
+Prevents duplicate scans across all users
 
-- **TakenBarcodes** - Shared barcode-style taken usernames
-- **TakenCustom** - Shared custom taken usernames
-- **TakenFive_Char** - Shared five character taken usernames
-- **TakenSingle_Check** - Shared single check taken usernames
+Fetched automatically before each scan
 
-All taken usernames are automatically:
-- ✅ Uploaded to GitHub when found
-- ✅ Fetched from GitHub before scanning
-- ✅ Preserved during updates (no data loss)
+🟩 Available Usernames (Local Only)
 
-## File Structure
+Available usernames stay on your machine
 
-```
-.
-├── 6Lsniper.py              # Main script
-├── KeyGenForPaidUsers.py    # Admin key management tool
-├── available/               # Local available usernames (private)
-│   ├── barcodes.txt
-│   ├── custom.txt
-│   ├── five_char.txt
-│   └── single_check.txt
-└── taken                   
-    └── empty needs to be removed
-```
+Never uploaded to GitHub
 
-## Requirements
+Stored in the available/ folder locally
 
-a brain
+📥 Installation
 
-## Notes
+Don’t be stupid
 
-- Available usernames are stored locally and are **never** uploaded to GitHub
-- Taken usernames are shared on GitHub to help everyone avoid duplicate scans
-- The tool automatically handles all GitHub sync operations
-- No manual sync needed - everything works automatically
+⚠️ Ensure the _internal folder and the .exe stay in the same directory
 
-## Support
+Run the executable
 
-⚠️ Important: Make sure the _internal folder and the .exe file stay in the same directory, or the loader won’t run.
+Create an account
 
-For support, keys, or questions, join our Discord: https://discord.gg/ZwcSF2F5T7
+Redeem a key (or get one from Discord: https://discord.gg/ZwcSF2F5T7)
 
-## License
+▶️ Usage
 
-Private - All rights reserved
+Create an account or log in
 
+Redeem a subscription key
+
+Choose a search mode from the menu
+
+Follow on-screen prompts to begin scanning
+
+🖥️ Main Menu
+=====================================
+        USERNAME SNIPER MENU
+=====================================
+[1]  Custom Word-Based
+[2]  Single Check
+[3]  5 Character
+[4]  4 Character
+[5]  3 Character
+[6]  5 Letter
+[7]  4 Letter
+[8]  3 Letter
+[9]  Barcode
+[10] Rescan
+[11] Account
+[Q]  Quit
+=====================================
+
+
+All taken usernames are:
+
+✅ Uploaded to GitHub
+
+✅ Pulled from GitHub before scans
+
+✅ Preserved during updates
+
+No manual syncing required — everything is automatic.
+
+🧠 Requirements
+
+A brain
+
+📝 Notes
+
+Local available usernames are private
+
+Taken usernames are shared via GitHub for efficiency
+
+The program auto-handles GitHub updates safely
+
+_internal and .exe must stay together
+
+💬 Support
+
+If you need help, keys, or have questions:
+
+👉 Join our Discord: https://discord.gg/ZwcSF2F5T7
+
+📄 License
+
+Private — All Rights Reserved
