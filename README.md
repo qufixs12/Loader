@@ -81,25 +81,6 @@ Choose a search mode from the menu
 
 Follow on-screen prompts to begin scanning
 
-🖥️ Main Menu
-
-        USERNAME SNIPER MENU
-
-[1]  Custom Word-Based
-[2]  Single Check
-[3]  5 Character
-[4]  4 Character
-[5]  3 Character
-[6]  5 Letter
-[7]  4 Letter
-[8]  3 Letter
-[9]  Barcode
-[10] Rescan
-[11] Account
-[Q]  Quit
-
-
-
 All taken usernames are:
 
 ✅ Uploaded to GitHub
